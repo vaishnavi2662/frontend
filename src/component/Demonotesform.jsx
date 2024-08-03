@@ -42,7 +42,7 @@ function  Demonotesform({ click, setClick, Clicked, userId, itemKey }) {
           <div className="bg-white rounded w-full">
             <div className="p-4 mt-10">
               <h2 className="text-gray-700 text-xl mb-4">
-                Add a new Password
+                Add a new Note
                 <h2 className="w-full h-0.5 bg-slate-200"></h2>
               </h2>
 
